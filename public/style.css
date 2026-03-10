@@ -1,0 +1,115 @@
+:root {
+    --bg-pink: #f4e4e1;
+    --text-dark: #333;
+    --text-light: #777;
+    --accent-line: #ddd;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #f0f0f0;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--text-dark);
+    line-height: 1.6;
+    padding: 40px 0;
+}
+.tudo{
+    background-color: #fff;
+    width: 210mm; /* Tamanho A4 */
+    min-height: 297mm;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.header {
+    display: flex;
+    background-color: var(--bg-pink);
+    height: 250px;
+    align-items: flex-end;
+}
+.imagem{
+    position: absolute;
+    bottom: 600px;
+    left: 600px;
+}
+.palavras_cabeca{
+    margin-left: 300px; /* Move para a direita */
+  margin-top: 500px;  /* Move para baixo */
+  transform: translateY(-60px);
+}
+.TEXTO_DIREITA{
+    transform: translateY(-70px);
+}
+.programador{
+    transform: translateY(100px);
+}
+.habilidade{
+    transform: translateY(80px);
+    margin-left: 50px;
+}
+.LINGUAS{
+    transform: translateY(150px);
+    margin-left: 50px;
+}
+.experiencia{
+    transform: translateY(-280px);
+    margin-left: 400px;
+}
+.Educação{
+    transform: translateY(-230px);
+    margin-left: 400px;
+}
+.imagem1{
+    transform: translateY(10px);
+    margin-left: -380px;
+    
+}
+.linha{
+    text-decoration: underline;
+  text-decoration-color:#333;
+}
+.linha1{
+    text-decoration: underline;
+  text-decoration-color:#333;
+}
+.linha2{
+    text-decoration: underline;
+  text-decoration-color:#333;
+}
+.linha3{
+    text-decoration: underline;
+  text-decoration-color:#333;
+}
+.footer-marola {
+    width: 100%;
+    padding: 30px 0;
+    margin-top: 50px;
+    background-color: #fff; /* Fundo branco  */
+    border-top: 1px solid #f1f1f1;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    color: #888;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+
+.code-text {
+    color: #f4e4e1; /* A mesma cor rosinha do topo */
+    font-weight: bold;
+}
+
+
+
+
+
+

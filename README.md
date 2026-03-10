@@ -2,9 +2,10 @@
 # Trabalho Prático - Semanas 3 e 4
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Lucas Araujo Asth
+- Matricula:910750
 
-## Print da tela da página criada (Curriculum Vitae)
+<img width="798" height="889" alt="Image" src="https://github.com/user-attachments/assets/2ec206ba-743c-41bb-9d10-21fa34328f26" />
+<img width="794" height="846" alt="Image" src="https://github.com/user-attachments/assets/8d9a1867-5261-4b2d-94d8-497802045471" />
 
 `<Coloque aqui o print da tela do Curriculum Vitae>`
